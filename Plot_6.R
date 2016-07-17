@@ -1,4 +1,4 @@
-# EXPLORATORY DATA ANALYSIS - PROJECT 2 - PLOT 5:
+# EXPLORATORY DATA ANALYSIS - PROJECT 2 - PLOT 6:
 
 # Read the files previously unziped from Datapm25.zip using readRDS:
 NEI <- readRDS("summarySCC_PM25.rds"); SCC <- readRDS("Source_Classification_Code.rds")
